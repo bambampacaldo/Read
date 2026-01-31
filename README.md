@@ -10,5 +10,5 @@ Featured Projects
   - Built with React, TypeScript, and charting libraries
 
 Links
-- GitHub: https://github.com/yourusername
-- Twitter: https://x.com/yourhandle
+- GitHub: https://github.com/bambampacaldo
+- Twitter: https://x.com/dexter_pacaldo
