@@ -1,2 +1,14 @@
-# Read
-This project is a comprehensive trading analytics dashboard designed for Deriverse, a next-generation, fully on-chain Solana trading ecosystem. The goal of the dashboard is to help active traders better understand their performance through clear, accurate, and actionable portfolio and journal analytics.
+## 👋 Hi, I'm Dexter
+
+I'm a Web / Blockchain-focused developer interested in Solana ecosystems,
+analytics dashboards, and trading tools.
+
+Featured Projects
+-  Deriverse Trading Analytics Dashboard
+  - Portfolio & journal analytics for active traders
+  - PnL, drawdown, win rate, and performance insights
+  - Built with React, TypeScript, and charting libraries
+
+Links
+- GitHub: https://github.com/yourusername
+- Twitter: https://x.com/yourhandle
